@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'Number-of-User' => 'Number of User',
+    '_chart_user_statistic' => 'User Statistic',
+    '_form_user' => 'User',
+    '_form_user_password' => 'User Password',
+    '_page_user' => 'User',
+    'avatar' => 'Avatar',
+    'avatar_helpText' => 'Click To Upload File',
+    'company_id' => 'Company',
+    'created_at' => 'Created At',
+    'deleted_at' => 'Deleted At',
+    'email' => 'Email',
+    'firstname' => 'User',
+    'identityNumber' => 'IdentityNumber',
+    'lastname' => 'Lastname',
+    'list_deleted_at' => ['1' => 'Deleted','0' => 'Undeleted'],
+    'list_status' => ['1' => 'Active','2' => 'Archive'],
+    'password' => 'Password',
+    'phone' => 'Phone',
+    'series_404' => 'User Statistic',
+    'status' => 'Status',
+    'updated_at' => 'Updated At',
+    'user_id' => 'User Id',
+];

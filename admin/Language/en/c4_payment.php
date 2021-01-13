@@ -1,0 +1,26 @@
+<?php
+
+return [
+    '_form_c4_payment' => 'Payment',
+    '_page_c4_payment' => 'Payment',
+    'amount' => 'Amount',
+    'c4_account_id' => 'C4 Account',
+    'c4_invoice_id' => 'C4 Invoice',
+    'c4_payment_id' => 'C4 Payment',
+    'checkout_status' => 'Checkout Status',
+    'created_at' => 'Created Date',
+    'currency' => 'Currency',
+    'date' => 'Date',
+    'deleted_at' => 'Deleted At',
+    'json_data' => 'Json Data',
+    'list_checkout_status' => ['SUCCESS' => 'SUCCESS','REFUNDED' => 'REFUNDED'],
+    'list_currency' => ['TRY' => 'Turkish Lira','USD' => 'ABD Dolar','EUR' => 'Euro','GBP' => 'British Pound'],
+    'list_deleted_at' => ['1' => 'Deleted','0' => 'Undeleted'],
+    'notes' => 'Notes',
+    'order_ref' => 'Order Ref',
+    'payment_method' => 'Payment Method',
+    'response_data' => 'Response Data',
+    'response_id' => 'Response',
+    'response_status' => 'Response Status',
+    'updated_at' => 'Updated Date',
+];
